@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://github.com/CrisHenrique/Be-TheHero/blob/master/frontend/src/assets/logo.svg">
+<img src="https://github.com/CrisHenrique/Be_TheHero/blob/master/frontend/src/assets/logo.svg">
 </h1>
 
 ### Projeto com Backend, Frontend e Mobile 📱 
